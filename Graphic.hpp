@@ -1,3 +1,8 @@
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
 #ifndef __GRAPHIC_H__
 #define __GRAPHIC_H__
 

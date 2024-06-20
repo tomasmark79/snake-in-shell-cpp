@@ -1,3 +1,11 @@
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
+#ifndef __GAME_H__
+#define __GAME_H__
+
 #include "CppEnetWrapper.hpp"
 #include "Field.hpp"
 #include "Player.hpp"
@@ -48,3 +56,5 @@ public:
     bool isGameGoingOn;
     bool getIsGameGoingOn() const;
 };
+
+#endif // __GAME_H__

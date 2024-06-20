@@ -1,4 +1,10 @@
-#pragma once
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
+#ifndef __USERUTIL_H__
+#define __USERUTIL_H__
 
 #include <iostream>
 #include <string>
@@ -73,3 +79,5 @@ public:
         return false;
     }
 };
+
+#endif // __USERUTIL_H__

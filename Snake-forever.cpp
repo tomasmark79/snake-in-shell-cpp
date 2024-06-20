@@ -1,3 +1,8 @@
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
 #define ENET_IMPLEMENTATION
 
 #include "CppVersion.hpp"

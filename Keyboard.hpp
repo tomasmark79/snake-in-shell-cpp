@@ -1,3 +1,8 @@
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
 #ifndef __KEYBOARD_H__
 #define __KEYBOARD_H__
 

@@ -1,3 +1,8 @@
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
 #include "Game.hpp"
 #include <thread>  // std::this_thread::sleep_for
 #include <iomanip> // std::setprecision

@@ -2,6 +2,7 @@
 //
 // Copyright (c) 2024 Tomas Mark
 //
+
 #include "Fruit.hpp"
 #include <cstdlib>
 

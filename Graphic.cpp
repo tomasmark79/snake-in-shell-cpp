@@ -1,3 +1,8 @@
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
 #include <exception>
 #include "Graphic.hpp"
 #include <iostream>

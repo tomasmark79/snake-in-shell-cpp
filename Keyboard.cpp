@@ -1,7 +1,8 @@
 // MIT License
 //
-// Copyright (c) 2024 Tomas Mark
+// Copyright (c) 2024 Tomáš Mark
 //
+
 #include "Keyboard.hpp"
 
 #ifdef _WIN32

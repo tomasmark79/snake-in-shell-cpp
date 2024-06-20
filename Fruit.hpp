@@ -1,8 +1,11 @@
 // MIT License
 //
-// Copyright (c) 2024 Tomas Mark
+// Copyright (c) 2024 Tomáš Mark
 //
-#pragma once
+
+#ifndef __FRUIT_H__
+#define __FRUIT_H__
+
 #include "Field.hpp"
 #include <memory>
 
@@ -28,3 +31,5 @@ public:
     void addFruitItem();
     void refreshFruit(int refreshIndex);
 };
+
+#endif // __FRUIT_H__

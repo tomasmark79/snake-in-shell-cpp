@@ -1,4 +1,11 @@
-#pragma once
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
+#ifndef __SNAKE_H__
+#define __SNAKE_H__
+
 #include <map>
 #include <string>
 #include <memory>
@@ -111,3 +118,5 @@ public:
         return this->backupCoosY.get();
     };
 };
+
+#endif // __SNAKE_H__

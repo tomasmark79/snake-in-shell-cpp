@@ -1,4 +1,11 @@
-#pragma once
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
+#ifndef __CPPVERSION_H__
+#define __CPPVERSION_H__
+
 #include <string>
 #include <sstream>
 
@@ -37,3 +44,5 @@ public:
         return str << cppVersion.cppVStr;
     };
 };
+
+#endif // __CPPVERSION_H__

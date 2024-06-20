@@ -1,4 +1,10 @@
-#pragma once
+// MIT License
+//
+// Copyright (c) 2024 Tomáš Mark
+//
+
+#ifndef __CPPENETWRAPPER_H__
+#define __CPPENETWRAPPER_H__
 
 #include <iostream>
 #include <string>
@@ -467,3 +473,4 @@ namespace CppEnetWrapper
         // ---------------------------------------------------
     };
 } // namespace CppEnetWrapper
+#endif // __CPPENETWRAPPER_H__

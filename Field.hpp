@@ -1,8 +1,11 @@
 // MIT License
 //
-// Copyright (c) 2024 Tomas Mark
+// Copyright (c) 2024 Tomáš Mark
 //
-#pragma once
+
+#ifndef __FIELD_H__
+#define __FIELD_H__
+
 class Field
 {
     int width;
@@ -27,3 +30,5 @@ public:
         return this->width * this->height;
     };
 };
+
+#endif // __FIELD_H__
