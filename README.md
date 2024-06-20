@@ -27,8 +27,16 @@ cmake ..
 make
 ```
 
-Usage
-After successful compilation, you can run the game using:
+### Hot-Seat four players
 
-License
+![Screenshot_20240620_101022](https://github.com/tomasmark79/snake-forever/assets/44719504/035afc46-08f0-4b6e-8d87-91f33fd622b5)
+
+### Two players internet multiplayer
+
+![Screenshot_20240620_102013](https://github.com/tomasmark79/snake-forever/assets/44719504/14824aec-fdcf-4b5f-a1a6-53f747d8d1d4)
+
+
+## License
 This project is licensed under the MIT License.
+
+
