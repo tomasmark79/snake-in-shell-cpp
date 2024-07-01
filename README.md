@@ -2,17 +2,17 @@
 
 ## Description
 
-Snake Forever is a game inspired by the classic Snake game. The game supports multiple players and is built on the C++ platform.
+Snake Forever was my C++ language excercise and it is a game inspired by the classic Snake game. This game is happening in a text console and is drawing with ansi chars. The game supports singleplayer, multiplayer like a hotseat up to four players or network multiplayer via UDP up to two players.
 
 ## Dependencies
 
 This project depends on the following libraries:
 
-- for Snake Forever compilation is using header-only fork of eNet Library
-  from here https://github.com/zpl-c/enet
+- header-only eNet Library
+  downloadable from repo https://github.com/zpl-c/enet
 
-- Audio playback and capture library - miniaudio - v0.11.21 - 2023-11-15
-  from here https://github.com/mackron/miniaudio
+- audio playback and capture library - miniaudio - v0.11.21 - 2023-11-15
+  downloadable from repo https://github.com/mackron/miniaudio
 
 ## Installation
 
@@ -27,16 +27,19 @@ cmake ..
 make
 ```
 
-### Hot-Seat four players
+### Hot-Seat four players screenshot
 
 ![Screenshot_20240620_101022](https://github.com/tomasmark79/snake-forever/assets/44719504/035afc46-08f0-4b6e-8d87-91f33fd622b5)
 
-### Two players internet multiplayer
+### Two players internet multiplayer screenshot
 
 ![Screenshot_20240620_102013](https://github.com/tomasmark79/snake-forever/assets/44719504/14824aec-fdcf-4b5f-a1a6-53f747d8d1d4)
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Unlicense.
+Initial author 2024 Tomáš Mark.
+https://github.com/tomasmark79/snake-forever
+
 
 
