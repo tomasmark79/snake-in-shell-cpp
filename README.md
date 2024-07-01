@@ -38,5 +38,6 @@ make
 
 ## License
 Snake Forever is open-source software, released under the unlicense. Initial author is Tomáš Mark 2024.
+
 For more information, visit the [GitHub repository](https://github.com/tomasmark79/snake-forever).
 
