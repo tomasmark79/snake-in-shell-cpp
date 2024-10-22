@@ -29,14 +29,18 @@ cmake ..
 make
 ```
 
+### Single Player
+
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/34a80fc8-60af-45ab-aed4-7f7dadfe4edb">
+
 ### Hot-Seat four players screenshot
 
-![Screenshot_20240620_101022](https://github.com/tomasmark79/snake-forever/assets/44719504/035afc46-08f0-4b6e-8d87-91f33fd622b5)
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/330b87ac-57bc-456d-a74f-0b2e5c6d7673">
 
-### Two players internet multiplayer screenshot
+### Internet multiplayer screenshot
 
-![Screenshot_20240620_102013](https://github.com/tomasmark79/snake-forever/assets/44719504/14824aec-fdcf-4b5f-a1a6-53f747d8d1d4)
-
+<img width="972" alt="image" src="https://github.com/user-attachments/assets/1bcb0d2f-f442-4a26-a35f-19c53476674a">
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/715ce396-6a9a-4409-bdbb-8adb074e95b7">
 
 ## License
 Snake Forever is open-source software, released under the unlicense.
