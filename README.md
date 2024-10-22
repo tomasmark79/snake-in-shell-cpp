@@ -7,7 +7,9 @@ Snake Forever was my C++ language excercise and it is a game inspired by the cla
 ## Dependencies
 
 This project depends on the following libraries:
+notice: both already included
 
+Latest version can be downloaded from
 - header-only eNet Library
   downloadable from repo https://github.com/zpl-c/enet
 
@@ -19,8 +21,8 @@ This project depends on the following libraries:
 Assuming you have CMake and a C++ compiler supporting C++17 installed, follow these steps for installation:
 
 ```bash
-git clone https://github.com/yourusername/snake-forever.git
-cd snake-forever
+git clone https://github.com/tomasmark79/snake-in-shell-cpp.git
+cd snake-in-shell-cpp
 mkdir build
 cd build
 cmake ..
@@ -37,7 +39,4 @@ make
 
 
 ## License
-Snake Forever is open-source software, released under the unlicense. Initial author is Tomáš Mark 2024.
-
-For more information, visit the [GitHub repository](https://github.com/tomasmark79/snake-forever).
-
+Snake Forever is open-source software, released under the unlicense.

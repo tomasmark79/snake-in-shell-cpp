@@ -45,7 +45,7 @@ void setArenaProperties()
         "Enter fruit emptiness, [ENTER for 3.5] ?: ", DEF_FRUIT_EMPTYNESS, 0.1, 10, PLAYER_ANSWER_TRESHHOLD);
 }
 
-int main()
+int main( /*int argc, char *argv[]*/ )
 {
     CppEnetWrapper::MyEnetNetwork net;
     vector<int> eraryVector;
