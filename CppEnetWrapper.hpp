@@ -11,7 +11,7 @@
 #include <cstdint>
 #include <vector>
 
-#include "./enet/include/enet.h"
+#include "enet.h"
 
 static const int SUCCESS = 0;
 static const int FAILURE = 1;
