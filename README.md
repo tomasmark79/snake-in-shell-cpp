@@ -1,5 +1,7 @@
 # Snake Forever
 
+This snake game example of OOP is full of incorrect implementations that demonstrate how OOP should not be designed.
+
 ## Description
 
 Snake Forever was my C++ language excercise and it is a game inspired by the classic Snake game. This game is happening in a text console and is drawing with ansi chars. The game supports singleplayer, multiplayer like a hotseat up to four players or network multiplayer via UDP up to two players.
