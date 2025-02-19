@@ -11,7 +11,13 @@
 #include <cstdint>
 #include <vector>
 
+// Add these include guards before enet.h
+#ifndef ENET_IMPLEMENTATION
+#define ENET_IMPLEMENTATION_GUARD
+#endif
 #include "enet.h"
+
+
 
 static const int SUCCESS = 0;
 static const int FAILURE = 1;
@@ -473,4 +479,10 @@ namespace CppEnetWrapper
         // ---------------------------------------------------
     };
 } // namespace CppEnetWrapper
+
+
+#ifdef ENET_IMPLEMENTATION_GUARD
+#undef ENET_IMPLEMENTATION_GUARD
+#endif
+
 #endif // __CPPENETWRAPPER_H__
