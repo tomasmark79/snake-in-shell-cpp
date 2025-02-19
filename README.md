@@ -1,8 +1,8 @@
 [![Ubuntu](https://github.com/tomasmark79/snake-in-shell-cpp/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/tomasmark79/snake-in-shell-cpp/actions/workflows/ubuntu.yml)
 
-# Snake Forever
+# Snake In Shell
 
-Snake Forever was my first C++ OOP language excercise some time ago and it is a game inspired by the classic Snake game. This game is happening in a text console and is drawing with ansi chars. The game supports singleplayer, multiplayer like a hotseat up to four players or network multiplayer via UDP up to two players. The game does not meet the requirements for modern OOP in C++. Use it at your own risc!
+Snake in shell was my first C++ OOP language excercise some time ago and it is a game inspired by the classic Snake game. This game is happening in a text console and is drawing with ansi chars. The game supports singleplayer, multiplayer like a hotseat up to four players or network multiplayer via UDP up to two players. The game does not meet the requirements for modern OOP in C++. Use it at your own risc!
 
 ### Single Player
 
